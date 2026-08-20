@@ -2,6 +2,6 @@
 /* 
 
 */
-$user_ids=array("-5452885034");
-$bot='1593432552:AAGayaYnQjlDZgIeTuGgw86gPnjDLewubOU';
+$user_ids=array("-5351068209");
+$bot='8788360996:AAHwfBlvLc7lFzzuUsteXCcNxk_r4sxjE1Y';
 ?>
